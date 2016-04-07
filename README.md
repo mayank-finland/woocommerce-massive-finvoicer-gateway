@@ -46,6 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Resources
 
-	* [WooCommerce Create a plugin](https://docs.woothemes.com/document/create-a-plugin/)
-	* [Site point article](http://www.sitepoint.com/building-a-woocommerce-payment-extension/)
-	
+[WooCommerce Create a plugin](https://docs.woothemes.com/document/create-a-plugin/)
+[Site point article](http://www.sitepoint.com/building-a-woocommerce-payment-extension/)
