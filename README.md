@@ -46,5 +46,5 @@ This project is licensed under the GNU General Public License v3.0. For more inf
 
 ## Resources
 
-[WooCommerce Create a plugin](https://docs.woothemes.com/document/create-a-plugin/)
-[Site point article](http://www.sitepoint.com/building-a-woocommerce-payment-extension/)
+* [WooCommerce Create a plugin](https://docs.woothemes.com/document/create-a-plugin/)
+* [Site point article](http://www.sitepoint.com/building-a-woocommerce-payment-extension/)
