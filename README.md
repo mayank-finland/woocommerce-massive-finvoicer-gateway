@@ -38,7 +38,7 @@ Contributors who participated and helped in this extension to this point are [bj
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0. For more information see [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ## Acknowledgments
 
