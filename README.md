@@ -38,7 +38,7 @@ Contributors who participated and helped in this extension to this point are [bj
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. For more information see [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html)
+This project is licensed under the GNU General Public License GPLv2. For more information see [GPLv2](https://opensource.org/licenses/GPL-2.0)
 
 ## Acknowledgments
 
